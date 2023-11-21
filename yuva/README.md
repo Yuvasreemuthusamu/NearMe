@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 21.11.2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -181,12 +181,12 @@ Nalaiku TV, in partnership with TVS Janatha Motors, presents an exclusive showca
 ```
 
 ## OUTPUT
-
-
-
-
-
-
+![Alt text](tvm.html.png)
+![Alt text](BHAVAN.png)
+![Alt text](LAKE.png)
+![Alt text](college.png)
+![Alt text](AMMAN.png)
+![Alt text](TVS.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
