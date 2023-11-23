@@ -83,7 +83,7 @@ KILNATHUR LAKE.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="pink">
+<body bgcolor="cyan">
 <h1 align="center">
 <font color="red"><b>Thiruvannamalai</b></font>
 </h1>
@@ -109,7 +109,7 @@ Shanmuga College.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="pink">
+<body bgcolor="green">
 <h1 align="center">
 <font color="red"><b>Thiruvannamalai</b></font>
 </h1>
@@ -132,7 +132,7 @@ SRI THIRUNERTTHI AMMAN TEMPLE.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="pink">
+<body bgcolor="red">
 <h1 align="center">
 <font color="red"><b>Thiruvannamalai</b></font>
 </h1>
@@ -157,7 +157,7 @@ TVS -Janatha Motors.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="pink">
+<body bgcolor="yellow">
 <h1 align="center">
 <font color="red"><b>Thiruvannamalai</b></font>
 </h1>
@@ -180,13 +180,13 @@ Nalaiku TV, in partnership with TVS Janatha Motors, presents an exclusive showca
 ```
 
 ## OUTPUT
-![Alt text](tvm.html.png)
-![Alt text](yuva/BHAVAN.png)
-![Alt text](yuva/LAKE.png)
-![Alt text](yuva/college.png)
-![Alt text](yuva/AMMAN.png)
-![Alt text](yuva/TVS.png)
 
+![Alt text](<Screenshot (22).png>)
+![Alt text](<Screenshot (23).png>)
+![Alt text](<Screenshot (24).png>)
+![Alt text](<Screenshot (25).png>)
+![Alt text](<Screenshot (26).png>)
+![Alt text](<Screenshot (27).png>)
 
 
 ## RESULT
